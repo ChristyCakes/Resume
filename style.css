@@ -1,0 +1,9 @@
+.card-img-top{
+    object-fit: cover;
+    height: 5vw;
+}
+
+#foot{
+    word-spacing: 60px;
+    text-align: center;
+}
